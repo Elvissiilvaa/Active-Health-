@@ -9,7 +9,7 @@
 <p align="center">🚀 Um aplicativo React Native para calcular o IMC de uma pessoa e gerar interação entre pacientes e profissionais de saúde - ( Nutricionistas e Personais Trainers)</p>
 
 <h4 align="center"> 
-	🚧  Active-Health - React Native  🚀 Em construção...  🚧
+	🚧  SaudeAtiva - React Native  🚀 Em construção...  🚧
 </h4>
 
 
